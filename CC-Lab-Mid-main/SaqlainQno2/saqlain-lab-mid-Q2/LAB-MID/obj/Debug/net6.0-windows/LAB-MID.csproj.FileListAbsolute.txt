@@ -1,0 +1,65 @@
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.exe
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.deps.json
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.runtimeconfig.json
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB_MID.Form1.resources
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.GenerateResource.cache
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\refint\LAB-MID.dll
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.genruntimeconfig.cache
+C:\Users\Junaid Ali\source\repos\LAB-MID\LAB-MID\obj\Debug\net6.0-windows\ref\LAB-MID.dll
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.exe
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.deps.json
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.runtimeconfig.json
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB_MID.Form1.resources
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfo.cs
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\refint\LAB-MID.dll
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.genruntimeconfig.cache
+C:\Users\hp\Desktop\CC-Lab-Mid-main\CC-Lab-Mid-main\LAB-MID\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\ref\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.exe
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.deps.json
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.runtimeconfig.json
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB_MID.Form1.resources
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.GenerateResource.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfoInputs.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfo.cs
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.CoreCompileInputs.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\refint\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.genruntimeconfig.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno2\LAB-MID-Q2\LAB-MID\obj\Debug\net6.0-windows\ref\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.exe
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.deps.json
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.runtimeconfig.json
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\bin\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB_MID.Form1.resources
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB_MID.Properties.Resources.resources
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.GenerateResource.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfoInputs.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.AssemblyInfo.cs
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.csproj.CoreCompileInputs.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\refint\LAB-MID.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.pdb
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\LAB-MID.genruntimeconfig.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\SaqlainQno2\saqlain-lab-mid-Q2\LAB-MID\obj\Debug\net6.0-windows\ref\LAB-MID.dll

@@ -1,0 +1,32 @@
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.exe
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.deps.json
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.runtimeconfig.json
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.dll
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.pdb
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab_mid_Q3.Form1.resources
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.csproj.GenerateResource.cache
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.dll
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\refint\Lab-mid-Q3.dll
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.pdb
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.genruntimeconfig.cache
+C:\Users\Junaid Ali\source\repos\Lab-mid-Q3\Lab-mid-Q3\obj\Debug\net6.0-windows\ref\Lab-mid-Q3.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.exe
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.deps.json
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.runtimeconfig.json
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\bin\Debug\net6.0-windows\Lab-mid-Q3.pdb
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab_mid_Q3.Form1.resources
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.csproj.GenerateResource.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.AssemblyInfoInputs.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.AssemblyInfo.cs
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.csproj.CoreCompileInputs.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\refint\Lab-mid-Q3.dll
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.pdb
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\Lab-mid-Q3.genruntimeconfig.cache
+C:\Users\saqlain\Desktop\CC-Lab-Mid-main\Qno3\Lab-mid-Q3\obj\Debug\net6.0-windows\ref\Lab-mid-Q3.dll
